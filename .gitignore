@@ -40,7 +40,7 @@ jspm_packages
 dist
 
 #bower
-bower_modules
+bower_components
 
 #vscode
 .vscode
